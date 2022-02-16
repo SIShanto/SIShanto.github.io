@@ -318,6 +318,10 @@ header
     max-width:90%;
     margin:0 auto;
 }
+.about-me-body p
+{
+    font-size:1.5em;
+}   
 .about-me-img
 {
     width:50%;
